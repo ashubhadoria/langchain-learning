@@ -265,3 +265,5 @@ logs
 # Temporary files
 tmp/
 temp/
+
+.ragatouille
